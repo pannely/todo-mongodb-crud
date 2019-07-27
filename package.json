@@ -1,0 +1,19 @@
+{
+  "name": "todo-mongodb-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pannely/todo-mongodb-crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pannely/todo-mongodb-crud/issues"
+  },
+  "homepage": "https://github.com/pannely/todo-mongodb-crud#readme"
+}
